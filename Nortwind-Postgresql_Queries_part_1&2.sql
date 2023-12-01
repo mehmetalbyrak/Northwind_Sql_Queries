@@ -1,4 +1,4 @@
--- home_work 1 & 2  sql queries  -- 2B2 
+-- Home_work 1 & 2  sql queries  -- 2B2 
 -- Based on Nortwind database
 
 -- 1. Selects product name and quantity per unit from products table
